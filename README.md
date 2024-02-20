@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vhaben</h1>
-<h3 align="center">A 2nd year physics student at the University of Oxford, passionate about coding</h3>
+<h3 align="center">A physics student at the University of Oxford, passionate about coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
