@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vhaben</h1>
+<h1 align="center">👋 Hi, I'm Henri Abensour</h1>
 <h3 align="center">A physics student, passionate about logic in all its forms.</h3>
 
 <h3 align="left">Connect with me:</h3>
